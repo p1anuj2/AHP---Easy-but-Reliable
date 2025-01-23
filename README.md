@@ -10,3 +10,8 @@ Why this project since everyone is doing house price prediction and it is very e
 3. **More Robust** in real world scenarios .
 
 **BUT HOW?**
+1. I have done **Thorough data research** and did not just call **.fit** on model withouth thoroghly understanding data
+2. I ensured **Structured data processing** and implement findings from EDA in preprocessing, and feature engineering to maximize model's performance
+3. I dont just trained the model just for sake of putting it on resume on something else, but ensures it meets all neccessary **assumption and refine it iteratively.**
+4. I integrated MLOps pratices uusing **ZenML and MLFlow, Implemented CI?CD Pipelines to automate testing, deployment, of the model in production**.
+5. Ensure the model is not only accurate but also **maintainable, scalable and ready fo real world use**.
