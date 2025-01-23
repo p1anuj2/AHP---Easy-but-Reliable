@@ -1,6 +1,6 @@
 # AHP---Easy-but-Reliable
 
-**The Primary goal is to predict House pricesbased on various features of the properties such as size, location and condition**
+The Primary goal is to **Predict House prices** based on various features of the properties such as **size, location and condition**
 Why this project since everyone is doing house price prediction and it is very easy, **What difference will I Offer?**
 
 **Let's get Started**
