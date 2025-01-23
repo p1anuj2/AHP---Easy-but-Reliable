@@ -5,6 +5,6 @@ Why this project since everyone is doing house price prediction and it is very e
 
 **Let's get Started**
 
-The pipeline is developed using **ZenML**, which is a MLOps framework helps in managing machine learning workflows, and **MLFlow** for experiment tracking adn model deployment
-It is not a dummy project but **A Real World Deployment Framework**
-**More Robust** in real world scenarios 
+The pipeline is developed using **ZenML**, which is a MLOps framework helps in managing machine learning workflows, and **MLFlow** for experiment tracking and model deployment.
+It is not a dummy project but **A Real World Deployment Framework**.
+**More Robust** in real world scenarios .
